@@ -15,18 +15,21 @@ This directory includes lecture notes (`lesson_notes`) and project code (`p0` to
 
 ## Program Outline:
 
-0. Exploratory Project: Titanic Survival Exploration
-1. Model Evaluation and Validation
-  - Project 1: Predicting Boston Housing Prices
-2. Supervised Learning
-  - Project 2: Building a Student Intervention System (Predicting whether or not students will fail so schools can intervene to help them graduate)
-3. Unsupervised Learning
-  - Project 3: Creating Customer Segments (Segmenting customers based on spending in different categories)
-4. Reinforcement Learning
-  - Project 4: Train a Smartcab to Drive (Implement Q-learning algorithm)
-5. Machine Learning Specialisation of Choice
+1. Machine Learning Foundations
+  * Project 1: Titanic Survival Exploration
+2. Model Evaluation and Validation
+  * Project 2: Predicting Boston Housing Prices
+3. Supervised Learning
+  * Project 3: Finding Donors for CharityML
+4. Unsupervised Learning
+  * Project 4: Creating Customer Segments (Segmenting customers based on spending in different categories)
+5. Deep Learning
+  * Project 5: Dog Breed Classifier
+6. Reinforcement Learning
+  * Project 6: Teach a Quadcopter How to Fly
+7. Machine Learning Capstone
+  * Project 7: Capstone Project
 
 ## Thanks:
 
 Special thanks to [pedropb](https://github.com/pedropb) for his base notes that I coopted as the base for my own, and to [jessicayung](https://github.com/jessicayung) for her README template and organization.
-
