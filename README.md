@@ -1,4 +1,32 @@
-# machine-learning
-Content for Udacity's Machine Learning curriculum, which includes projects and their descriptions.
+# udacity-ml-nanodegree
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
+Udacity's Machine Learning Engineer Nanodegree project files and notes.
+
+This repository contains project files and lecture notes for [Udacity's Machine Learning Engineer Nanodegree program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) which I started working on in June 2018.
+
+The Machine Learning Engineer Nanodegree is an online certification. It involves
+
+1. Courses in supervised learning, unsupervised learning and reinforcement learning and
+2. Six projects (p0-p5 in this directory).
+
+Courses include lecture videos, quizzes and programming problems. These courses were developed by Georgia Tech, Udacity, Google and Kaggle.
+
+This directory includes lecture notes (`lesson_notes`) and project code (`p0` to `p5`).
+
+## Program Outline:
+
+0. Exploratory Project: Titanic Survival Exploration
+1. Model Evaluation and Validation
+  - Project 1: Predicting Boston Housing Prices
+2. Supervised Learning
+  - Project 2: Building a Student Intervention System (Predicting whether or not students will fail so schools can intervene to help them graduate)
+3. Unsupervised Learning
+  - Project 3: Creating Customer Segments (Segmenting customers based on spending in different categories)
+4. Reinforcement Learning
+  - Project 4: Train a Smartcab to Drive (Implement Q-learning algorithm)
+5. Machine Learning Specialisation of Choice
+
+## Thanks:
+
+Special thanks to [pedropb](https://github.com/pedropb) for his base notes that I coopted as the base for my own, and to [jessicayung](https://github.com/jessicayung) for her README template and organization.
+
